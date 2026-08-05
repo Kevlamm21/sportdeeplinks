@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+**/out/
+**/data/
+**/.vs/
+**/.vscode/
+**/*.user
+.git/
+.gitignore
